@@ -1,0 +1,90 @@
+#+TITLE: Reading Journal 4
+#+AUTHOR: Eric Nguyen
+#+LATEX_HEADER: \usepackage[margin=1in]{geometry}
+#+OPTIONS: toc:nil num:nil
+
+* Chapter 1 Summary
+
+The American dream is the idea that Americans can lead successful lives if they work hard enough.
+Indeed, this appeared very much to be the case in the thirty years after World War II as the economy and average income among all Americans had both doubled in size; in particular thanks to Americans generally becoming more educated.
+However, the introduction of computers had created an imbalance among Americans, as only the most highly educated Americans would see their wages grow as the less educated Americans would have their incomes stagnate or even decline; challenging the notion of the American dream where working hard was no longer a straightforward path to success.
+But if this is the case then why are people not striving to attain higher education?
+In general, people with lower income will spend their money differently than those with higher income and this translates income gaps to achievement gaps.
+This book discusses two topics: (1) on the stagnation of educational attainment and widening gap in educational outcomes and (2) on examples of successful schools and programs through which low-income families can have a shot at the American Dream.
+In a brief overview, the authors Greg J. Duncan and Richard J. Murnane write about Shannon Keys, a teacher who teaches second-grade students, all of which are both African American and live in low-income neighborhoods, where she would set up so-called "activity centers" to facilitate the routine learning of core concepts such as reading, writing, science, etc., which her students would rotate between every few minutes.
+Keys, along with her colleagues, follow two complementary principles of both support and accountability, where support involves a consistent, efficient practice of literacy and accountability involves a shared responsibility among colleagues and parents to educate each and every student well.
+Duncan and Murnane show the potential that American education can live up to and emphasize the importance of "quality and consistency of instruction and experiences offered to students" (p. 5) in reaching that potential, as opposed to simple "silver bullets" such as having more money.
+
+* Chapter 2 Summary
+
+In 1972 it seemed like high school graduates were in good shape as the labor market was booming with low unemployment rates across America and the income difference between high school graduates and college graduates, while still significant, was small enough to justify people's decisions to not go to college and head straight into the labor market.
+It also happened that this year was the start of an extensive study of high school seniors where roughly nineteen thousand students were randomly selected from over one thousand schools and their career outcomes would be studied.
+In this sample, one third would end their education after high school graduation and one third would have already completed more schooling than their parents.
+In 1979, a follow-up survey found that most of the male high school graduates had found successful careers in skilled blue-collar jobs; thanks to technological advances which grew the economy and provided opportunities for all workers to earn higher wages.
+Another factor in the economic growth of America was its strong support for universal secondary education and making college more accessible.
+The economic growth was so immense that it placed America's living standards above the rest of the industrialized countries that people became skeptical of the sustainability of the economy and indeed they were right to feel this way as not only would there be a severe recession in the early 1980s, but more importantly, computers would come to dominate the technological changes with major implications on the relationship between educational attainment and earnings.
+The introduction of computers would increase demand for highly educated workers, however as computers were used to automate tasks, they would consequently simultaneously decrease demand for less educated workers as they could be replaced as their work could be performed by computers.
+Furthermore, the advancement of computers and telecommunication facilitated the outsourcing of workers which would cost less for American companies.
+The less educated workers, having been pushed out of their automated jobs, are forced to compete in service jobs or other low-paying jobs which have not yet been automated, creating a surplus of labor for these types of jobs.
+
+Anthony Mears, born in the mid-1980s, is one of such high school graduates earning a low wage at a construction job.
+His career goals include starting a business in home remodeling and real estate, but despite having had completed more schooling than both his father and grandfathers, he is at a disadvantage as the high school diploma is no longer enough to act as a secure path to the middle class.
+His school life was mostly carefree, where his parents had set reasonable boundaries and guidelines for him to follow, but otherwise he could do anything he wanted within those boundaries.
+During his school life, his family had secured relative financial stability in the working-class despite his parents being divorced.
+Anthony's academic performance was not the best initially, so his parents had made sacrifices to invest in his education by placing him in a private school in hopes that he would find academic success and from there secure a middle-class job that would lead to higher living standards for their family.
+Unfortunately, Anthony did not show the motivation and willingness to get through with community college and did not earn his two-year degree which comes with considerable consequences in today's labor market.
+
+Alexander Williams, born around the same time as Anthony, grew up in a well-off community in a large northeastern city.
+His parents were both high-earning, accomplished professionals which gave room for them to academically support and supervise him without concern for expenses.
+They could dedicate time and carefully nurture him so that he would be practically guaranteed to be successful in every aspect, including academically and socially, and thus financially.
+There is very little resistance in the way of Alexander's life trajectory, especially compared with Anthony's life, and Alexander will likely and easily fall into the upper middle class income bracket.
+
+The level of education of the workforce apparently correlates with the growth of the economy, so why are people hesitant to pursue higher education?
+One reason is the cost of college and the perceived difficulty of it deter many students from pursuing a college education.
+This is particularly an issue for low-income (and less educated) families such as that of Anthony's.
+Another reason is the insufficient preparation of high school graduates for collegiate level education.
+This decline in education is severely disruptive both economically and demographically and makes it difficult to get back to the prosperity experienced in the half-century golden age period after the second world war; however the authors argue that it is indeed possible to restore such prosperity through the improvement of education particularly for low-income children and increased support for their families.
+It is important to understand the roles that both families and schools have in the widening gap of educational outcomes of children on either end of the income spectrum to see why education is an important component of the restoration of prosperity in America.
+
+* Chapter 3 Summary
+
+At twenty years old, Alexander and Anthony are clearly going to be leading vastly different careers, where Alexander is completing an Ivy League degree with plans to go to medical school whereas Anthony has a job, but is concerned for his life from recent deaths of his friends.
+Alexander's family was not only wealthy, but because they were also highly educated, they knew how to raise him properly.
+On the other hand, Anthony's parents were not nearly as educated, with his father even having trouble reading.
+Furthermore, Alexander lived with both of his parents which eased any financial stress and allowed them to spend more time together which was not the case with Anthony.
+In Figure 3.1, it is shown that richer students tend to perform much better in reading achievement and school engagement while poorer students tend to develop anti-social behavior and mental health problems; these gaps being apparent throughout grade school and even more severe than gaps between different racial groups.
+This appears to be the case as children coming from higher-income families are able to pay better attention in class since there are few sources of stress compared to children coming from lower-income families, i.e., their overall environment and mindset are in ideal conditions for their academic performance to flourish.
+Another consideration is how economic disparities affects family relationships.
+Garrett Tallinger is a white fourth grader who grew up in similar circumstances as Alexander living in an upper-middle-class family and neighborhood.
+Because of his class, his parents are able to afford to get him involved in many different extracurricular activities and provide transportation for him for these activities, all while they live in a spacious, quiet, and safe neighborhood.
+Harold McAlister is an African American boy who is growing up in even worse circumstances than Anthony did.
+He lives in an all-black urban neighborhoood with extremely poor housing and financial conditions and his family relationships are weak.
+Food is very limited in the household and the health care is inadequate to keep the children healthy.
+Constant exposure to health risks such as toxic lead paint and violence make it hard for children to be concerned about school and develop cognitive and behavioral problems in them which can be disruptive to their classmates' learning as well.
+High-income families are able to afford living in safer neighborhoods avoiding most of these issues; indeed in recent years the gap in money spent on children between low- and high-income families has widened considerably.
+Family relationships also affect school achievement and good family relationships are easier to have when there is less to worry about such as finances.
+It is important that the parents are mentally healthy to be there and support their children and some programs have addressed this issue, for example, child care and health care subsidies.
+It has been shown empirically that families given an income boost have had their children find much better early academic achievement and school attendance than those families which did not receive an income boost.
+Essentially, money is an important variable in the educational outcome of a person.
+Another important variable is family structure and especially parent education.
+Alexander's and Garrett's parents, being highly educated, knew how to get into university and could carefully guide their children on their academic careers while Anthony's and Harold's parents essentially had no experience with college to provide any substantial guidance.
+These are practically constant variables that, even given higher income, would still constrain the academic performance of children with uneducated parents to some degree.
+In the 1970s, Betty Hart and Todd Risley found an important source of illiteracy among kindergartners and so recruited forty-four families of all socioeconomic backgrounds with children who had just had their first birthday, recording every verbal interaction between the child and their parents, noting that children of professional parents would develop literacy at a faster rate than those in working-class or welfare.
+From these results, we can see the importance of the education level of parents in the educational outcomes of their children.
+
+* Significant Takeaways
+
+- The solution to America's current education system does not merely involve a higher budget or more educational resources, but rather it is arguably more important to provide consistent practice and instruction to students
+
+- Income level is a significant factor in schooling and educational experience and outcomes
+
+- Education level of parents strongly correlates with early academic performance in children
+
+* Questions
+
+- Do parents and educators recognize the current flaws of the education system in America, and are they working towards a solution?
+  If so, how much progress has America made towards improving education?
+
+- How do we narrow the income gap?
+
+- How can children of less educated parents match the literacy rate and academic success of those with more educated parents?

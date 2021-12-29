@@ -1,0 +1,263 @@
+#+TITLE: Schooling Autobiography
+#+AUTHOR: Eric Nguyen
+#+OPTIONS: num:nil toc:nil
+#+LATEX_HEADER: \usepackage[margin=1in]{geometry}
+#+LATEX_HEADER: \usepackage[doublespacing]{setspace}
+#+LATEX_HEADER: \frenchspacing
+#+LATEX_CLASS_OPTIONS: [12pt]
+#+EXCLUDE_TAGS: noexport
+#+EXPORT_FILE_NAME: SchoolingAutobiography_NguyenEric
+
+* School description
+
+Conestoga High School is a White-majority (73% White, 19% Asian, 8% other) public high school situated in a relatively affluent and safe White-majority (84.3% White, 10.4% Asian), well-educated (40.6% with graduate or professional degree, 39.1% with bachelor's degree), suburban neighborhood roughly forty minutes west of Philadelphia by car (Public School Review, U.S. Census Bureau).
+Its school district spends a significant amount of money per student each year at $19,206 (compared to the national average of $13,187) with its total annual revenue at $134,205,000 (U.S. News, U.S. Census Bureau).
+The public school features a substantial amount of real estate and open space including two outdoor courtyards, an outdoor track, two baseball fields, and a football field.
+There is quite a wide range of courses offered at the school, including those under business and technology, English, mathematics, science, social studies, visual and performing arts, physical education, family consumer sciences, and world languages, with core classes being offered at varying degrees of rigor, many of which are offered up to the AP level.
+The student to teacher ratio is average at 17:1 and many students enroll in the higher-level courses, including AP, maintaining excellent academic performance and achieving high test scores (Public School Review).
+Additionally, there are also many extracurricular activities and student organizations for students to participate in (or create themselves) which promote learning outside of the classroom and form strong bonds among groups of like-minded students.
+For example, my hobbies include breakdancing and computer programming and indeed there were existing student organizations catered for these specific interests through which most of my social circles and friendships were formed.
+Overall, there is little concern in regard to violence, segregation, or dropout; however there are occasional scandals, particularly involving staff-student relationships (The Spoke).
+
+* School experience
+
+My schooling experience was in some ways typical and in some ways atypical for an Asian student from a relatively low-income family and poorly-educated parents in a 73% White, 19% Asian public high school in a well-educated, well-off neighborhood.
+There were no tracks in my school and indeed students would pick and choose which courses they wanted to take with whatever level of rigor they preferred, of course as long as they fulfilled the necessary prerequisites.
+I tended to take the Honors-level (just below AP level) courses, however I did not put in much effort or cared much for academics, especially for an Asian student in my school.
+I only really cared to attend high school primarily because of the extracurricular activities, especially for the opportunity to meet my friends at my after-school dance clubs and computer programming clubs which coincidentally had many Asian students.
+Because of my poor academic performance and more so my negative attitude towards learning in class, I was placed under an Individualized Education Program (IEP) which separated students with learning disabilities from the other students for some portion of the day in a study hall-like class called Academic Seminar where IEP students would be under heavy supervision as they studied and completed homework assignments.
+The situation I had found myself in only deepened my resent for school and the education system in general and I saw myself straying away from further education.
+
+In addition to my poor academic performance, because my family was classified as low-income in the context of the neighborhood, I was eligible for free lunch where in my school only 6% of students are eligible for free lunch (Public School Review).
+While my family was by no means financially struggling, knowing that we were a low-income family in the neighborhood certainly made me more financially conscious than I would have, had our family been wealthier.
+This meant that my family and I were less invested in academic success since we would try to conserve our money whenever we could, even at the sacrifice of better performance or a better experience in school.
+I would not spend any money on tutors to improve my grades, nor participate in any paid classes for my hobbies and interests.
+Instead, I started learning on my own, through online resources.
+
+Self-learning from the internet, for the most part, shaped much of my high school experience.
+With the formal schooling experience being unappealing to my academic appetite and with the attractiveness of free and practically unlimited information from the internet, I had little incentive to succeed in school, knowing I could obtain my knowledge outside of school.
+I understood that the path to being knowledgeable did not necessarily require a formal education and good grades, but instead being knowledgeable requires the student to be driven to learn more about the particular topics of interest.
+With this understanding, I would venture on to study subjects on my own, while putting in just enough effort in school to pass the classes and eventually earn my high school diploma.
+Because I was a fairly reserved student and kept my head down most of the time, the issue of race never was quite as apparent to me.
+
+In regard to race, my school did put in a considerable amount of work in welcoming students from minority racial and ethnic groups.
+In fact, there were a number of conferences, events, and clubs solely for the purpose of promoting diversity in the school.
+While the minority population was indeed quite small, the efforts to promote diversity were noticeable.
+At some point, it became apparent to me that one's race influenced how they went about their life.
+For example, the Black students often were involved in sports (e.g., basketball), the Black staff often were working in manual labor (e.g., as janitors), the Asian students often hung out with other Asian students, etc.
+
+* Critical reflection
+
+Take for example a high school such as Central High School in northern Philadelphia.
+Central High, while having a slightly larger student body than Conestoga (by 200 students), is much more racially diverse, with the racial distribution among students being 25% White, 37% Asian, 24% Black, 8% Hispanic, and 6% other (Public School Review).
+Furthermore, its surrounding neighborhood is Black-majority and much more densely populated (total population of 34,701, 82.7% of which is Black) (U.S. Census Bureau).
+The neighborhood is also extremely poor and uneducated with the majority of the population making less than $50,000 per year, 28.2% of the population being below the poverty level, and only 16.2% having at least a bachelor's degree (U.S. Census Bureau).
+
+After having done the readings for this class, in conjunction with the research I have done on my school and another, more diverse school, I have gained a better perspective on my schooling experience during high school and why certain things were the way they were and why certain things happened the way they happened in my schooling experience.
+Specifically, it now makes more sense to me as to why racism was not as big of an issue in my particular school, why there was such an emphasis on promoting diversity in my school and why I found comfort in self-learning as opposed to learning from school.
+
+Seeing that my school had such an insignificant population of Black and Hispanic students, especially in contrast to that of Central High, I understand why I was not exposed to racism to degrees which I would learn about in class or hear about in the news.
+This also explains why people around me had distorted views and misconceptions about Black people such as my parents who have heard stories from extended family members attending Central High involving Black individuals (e.g., violent crime committed by Black people).
+Connecting to Tatum's third chapter on why so many people are afraid to talk to race, my neighborhood was indeed not well-informed regarding race due to lack of diversity and lack of exposure to race-related situations, thus making discussion of race being taboo (Tatum, p. 4).
+This is evident in my own personal experience, where for most of my time growing up, I was discouraged by my parents against hanging out with Black friends and discouraged from talking about race in general.
+
+My parents were very relaxed in their parenting, essentially allowing me to do whatever I want, whenever I wanted to---as long as I was happy and healthy, they were not concerned.
+Because of my parent's low-income and poor education, they could not give me much guidance through high school.
+As a result, I did not value school very much and would always get in trouble with the teacher for not paying attention.
+The only things I really paid attention to in school were my friends and activities, i.e., everything outside the classroom, similar to that story of Anthony's who similarly cared more for basketball rather than school (Duncan and Murnane, p. 11).
+Indeed, college was one of my last considerations for what to do after high school, as it seemed too expensive and too difficult for me to be admitted anyway, given my poor academic performance in high school.
+My personal story agrees with Duncan and Murnane's explanation of why people are hesitant to pursue higher education, and it is precisely because of this income and education gap that there are disparities in educational outcomes between students of families of different levels of income and education (Duncan and Murnane, pp. 15--16).
+
+I am here, in college, in spite of my education in high school.
+Although my high school is known for having a high graduation rate with most students going on to pursue higher education, the circumstances regarding my academic performance and the education level of my parents lead me to believe that my admission into college was unlikely.
+It is primarily thanks to a combination of self-learning, a good math teacher, a bit of luck, and (financially) supportive parents that I am able to attend college today.
+To elaborate, the self-learning and good math teacher allowed me to find value in school and education.
+Without the great financial sacrifice of my parents, I never could have afforded to attend college.
+
+\newpage
+
+* References
+
+- U.S. News (2018).
+  /Overview of Tredyffrin-Easttown School District/.
+  https://www.usnews.com/education/k12/pennsylvania/districts/tredyffrin-easttown-sd-102121
+
+- U.S. Census Bureau (2021).
+  /SELECTED CHARACTERISTICS OF THE TOTAL AND NATIVE POPULATIONS IN THE UNITED STATES/.
+  Retrieved from https://data.census.gov/cedsci/table?q=S0601&g=8600000US19312&tid=ACSST5Y2019.S0601&hidePreview=true
+
+- U.S. Census Bureau (2021).
+  /SELECTED CHARACTERISTICS OF THE TOTAL AND NATIVE POPULATIONS IN THE UNITED STATES/.
+  Retrieved from https://data.census.gov/cedsci/table?q=S0601&g=8600000US19141&tid=ACSST5Y2019.S0601&hidePreview=true
+
+- U.S. Census Bureau (2021).
+  /Public School Spending Per Pupil Increases by Largest Amount in 11 Years/.
+  Retrieved from https://www.census.gov/newsroom/press-releases/2021/public-school-spending-per-pupil.html.
+
+- Public School Review (2018).
+  /Conestoga Senior High School (2021-22 Ranking): Berwyn, PA/.
+  Retrieved from https://www.publicschoolreview.com/conestoga-senior-high-school-profile.
+
+- Public School Review (2018).
+  /Central High School (2021-22 Ranking) | Philadelphia, PA/.
+  Retrieved from https://www.publicschoolreview.com/central-high-school-profile/19141
+
+- The Spoke (2016).
+  /The Spoke May 2016/.
+  Retrieved from https://issuu.com/stoganews/docs/page_28_rev.
+
+- Tatum, Beverly (2002).
+  /Why Are All the Black Kids Sitting Together in the Cafeteria?/
+
+- Duncan, G. J., Murnane, R.J. (2014)
+  /Restoring Opportunity/.
+
+* Background/Rationale :noexport:
+
+All of us come to this course with experiences in schools (elementary, middle, high school and colleges in the United States or abroad, as well as home schooling experiences, just to name a few).
+These experiences influence the way we think about schooling.
+For example, they shape our knowledge about how the school day goes and what content is covered, our ideas about how teachers and students should interact with one another, and whether schooling is a positive or negative experience.
+As we begin this course, it is important to make ourselves aware of our own ideas about schooling based on these experiences, as well as to learn about the experiences of other people who might have similar and/or different experiences.
+This assignment is designed to provide an opportunity for you to
+
+1) understand your own schooling experience in a way you might not have before
+
+2) reflect on this experience and
+
+3) learn about the experiences of others.
+
+We will also use this assignment to explore how the experiences we have had in school are shaped by our social location – our location in the social structure that is shaped by race, ethnicity, immigrant status, first language, geographic residence (urban, suburban, rural, and region of the country), religion, SES, gender, sexual orientation, etc.
+
+Below I outline the steps you will need to take in completing this assignment.
+While the final product is a 4-5 page paper that can be thought of as your schooling autobiography, there are two other steps that precede this final product that are critical to crafting this paper: research and reflection
+
+* Research :noexport:
+
+In order to understand your own schooling experience more fully it will be helpful to you to gather information on your neighborhood and school as well as that of other neighborhoods and schools.
+
+1. Go to the U.S. Census website at https://data.census.gov/
+
+   This site has a great deal of data on it.
+   Use the search option (magnifying glass) to look up the zip code of your neighborhood where you went to school.
+   Click on Tables, and use the table, “Selected characteristics of the total and the native populations in the United States”.
+   For this assignment, please look up the racial and SES make-up of the neighborhood where you lived when you attended high school and one or two others of interest, perhaps a neighborhood nearby where you grew up or one that you think is different from where you grew up.
+   Take notes on some of the statistics that you find compelling.
+
+2. Go to publicschoolreview.com or greatschools.org.
+   Look up data on your own school and one or two others.
+   Again, these other schools can be similar to yours or different, you choose.
+   When you look up these schools you will want to pay attention to:
+
+   - Number of teachers and students, then compute the ratio.
+
+   - Number of students in each grade
+
+   - Racial and ethnic makeup of the school (both students and teachers)
+
+   - Students eligible for free and reduced lunch (this number serves as a proxy for SES)
+
+   - District revenue and spending per student.
+
+* Reflect :noexport:
+
+There are several ways I want you to reflect.
+This reflection takes time so you want to complete this part of the assignment well before you sit down to write.
+
+** 1. Class Discussions thus far
+
+Think about the discussions we have had in class and the readings you have completed.
+Has this changed your perspective on your own schooling?
+
+** 2. Your Research
+
+Think about the research you have done on the census data and your school.
+What did you learn?
+What did you learn about your neighborhood or school?
+What did you learn about your neighborhood or school in relation to others?
+
+** 3. School Experience
+
+Think about your schooling experience.
+Reflect back on your schooling experience and consider it in light of what you have learned.
+What do you notice now about where you grew up and attended high school?
+Are there particular experiences or patterns of behavior that seem striking to you now?
+Were there aspects of your schooling experience that were particularly noteworthy?
+
+* Essay structure :noexport:
+
+** 1. Describe Your School
+
+Paint a vivid (yet brief) description so that the reader can see the school through your eyes.
+At the minimum, describe at least three features of the school (e.g., the buildings and their environment, the ethnic and socioeconomic backgrounds of the students, the kinds of classes you were able to take) and anything that may relate to the focus of this course (school violence, segregation, and dropout).
+Put effort into thinking about things that have been not apparent to you until now.
+Some other points to consider:
+
+- What are some of your most significant memories of school?
+
+- What type of schools did you attend? (Public, private, Catholic, other?)
+
+- What can you remember about your learning environment, teachers, classmates and curricula?
+
+- What was the tone inside the building? Did you feel safe? Welcomed?
+
+- What was the neighborhood surrounding your school like?
+  The community?
+  Were there prominent businesses in or positive/negative attributes of the community?
+  Did the community affect the school?
+  If so, how?
+
+- What other emotions do you attribute to your school experiences? Was school a positive or negative experience? Why?
+
+** 2. Write About Your Schooling Experience
+
+Describe aspects of your schooling experience that support the insights you describe (as noted in #3 below).
+Some things you might think about include:
+
+- Were there tracks in your school?
+  How were people in each of the tracks perceived or stereotyped?
+
+- Which types of classes did you take and in which tracks were those classes?
+
+- How did your social status compare and contrast with the other students in your classes?
+  How did they compare with students who were not in your classes?
+
+- How did people self-segregate at your school?
+
+- Describe the social locations of the following:
+  Who rode the bus and who drove?
+  Who hung out together during the day?
+  Who hung out together after hours?
+  Who were the leaders in your student body?
+
+- What was the race and ethnicity of individuals who served in the roles of administration, faculty, school counselor, and staff (security guards, janitors, food service workers, office secretaries), and the PTA.
+
+** 3. Describe Insights/Learnings
+
+This is the reflection piece—considering what we have read and discussed in class, describe what you think is significant about your school—what was most significant about your experience?
+Communicate to the reader how your view of your schooling has been changed by this assignment.
+This is not meant to be a laundry list of every insight you have had or small point you have learned.
+Rather select two to three significant insights to focus on and describe how the readings or the research has influenced your thinking about your own schooling.
+
+Finally, address this question:
+Are you here today in spite of your education or because of your education?
+Why?
+
+** 4. References
+
+Include at least 2 of your class readings.
+Also, cite the websites that you have used to find the data about your school and neighborhood.
+
+A successful paper will use concrete examples from your own schooling experience and the readings, class discussion or research to illustrate and support your points.
+Please remember to cite your readings in text as well as a separate Reference Page.
+
+* Rubric :noexport:
+
+- Research about school and neighborhood (4 pts)
+
+- Description of school (Part 1) (4 pts)
+
+- School experience (Part 2) (4 pts)
+
+- Critical Reflection (Part 3) (4 pts)
+
+- Organization and quality of writing (includes citations) (4 pts)

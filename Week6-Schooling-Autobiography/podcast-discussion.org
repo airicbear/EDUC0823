@@ -1,0 +1,117 @@
+#+TITLE: Podcast Discussion
+#+AUTHOR: Eric Nguyen
+#+OPTIONS: num:nil toc:nil
+#+LATEX_HEADER: \usepackage[margin=1in]{geometry}
+#+LATEX_HEADER: \usepackage[doublespacing]{setspace}
+#+LATEX_HEADER: \frenchspacing
+#+LATEX_HEADER: \renewcommand{\Large}{\Small}
+#+LATEX_CLASS_OPTIONS: [12pt]
+#+EXCLUDE_TAGS: noexport
+#+EXPORT_FILE_NAME: PodcastDiscussion_NguyenEric
+
+* 1. What are the short term and long term benefits of integration?
+
+In the short term, integration gives black kids access to the same quality teachers and quality instruction as white kids get.
+Generally, segregated, all black schools tend to have children from families living in poverty, where they are each placed at a great educational disadvantage and since everyone else in their classes are in the same boat, the students tend to stay behind with the rest of their classmates.
+Integration allows the educationally disadvantaged students, often black students, to have educationally better off classmates which enables the disadvantaged students to catch up with the rest of their classmates educationally.
+In the long term, as black children catch up with their white peers academically, the achievement gap in America between black and white kids quickly closes.
+According to Nikole Hannah Jones, school integration was able to change the achievement gap between black and white students from around 40 points to only 18 points, effectively halving the achievement gap between black and white students in just 17 years.
+In comparing various ways of closing the achievement gap, school integration has been shown to be one of the fastest, most effective ways to bring up test scores in black students and closing the achievement gap between black students and white students.
+
+* 2. What are the difficulties entailed by minority children in the integration process?
+
+In the integration process, the minority children are subject to being removed from their neighborhood and bussed to a completely different, less familiar and less inviting neighborhood.
+This means that the minority children have to wake up much earlier than their classmates to arrive to school on time and they also have to adjust themselves and their behavior to being a part of a wealthier community, coming from a much poorer community.
+It can be extremely socially stressful for them since they can feel very out of place within the wealthier community as a result of this drastic change in social environment.
+For example, the minority child could go to their wealthier friends' houses, but those wealthier friends were not allowed by their parents to go to the minority child's home presumably because of the negative implications of having their children leaving their safer, more affluent neighborhood to go to a supposedly more dangerous, lower income neighborhood.
+Indeed, there are many ways in which the minority children are different than the wealthier children which lead to various social conflicts such as this one and the collective differences between the two groups of children causes greater stress and difficulties for the minority children to have to overcome to fit in with the rest of the student body.
+
+* 3. What are some of the problems with Normandy school district?
+
+The Normandy school district, at the time when a young black student by the name of Michael Brown was shot dead by a police officer, was in utterly miserable conditions being an extremely poor, nearly all black school district in addition to having poor administration and management as well as indifferent, uncaring teachers.
+Indeed, it was the worst school district in the entire state of Missouri, given a rating of zero across almost all subjects regarding the academic performance of its students---something nearly impossible to fathom.
+Many, if not most of the students, especially black boys in the Normandy school district did not even graduate high school.
+In a particular account, the daughter of the Normandy mother Nedra Martin, Mah'Ria, had apparently been doing well in school but when she received a poor grade Nedra was not notified by the teacher, and when Nedra asked why she was not notified of the poor grade the teacher gave an unconcerned response saying there were simply too many students who received poor grades to notify all of the parents.
+Furthermore, the classes were "dumbed down and often unorganized and unruly" which only worsened the circumstances.
+Evidently, the student experience in the Normandy school district was clearly substandard.
+
+* 4. What are the concerns of the parents in Francis Howell? Are these concerns justified?
+
+The decision to allow the integration of black Normandy students into the nearly all white Francis Howell school district was very sudden and unexpected (considering this happened in 2013, when it should have happened much earlier) which made the parents of children in the Francis Howell school district caught off guard.
+The Francis Howell school district had no say in the matter---they were forced to integrate the black students from the Normandy school district into their school district.
+Of course, in encountering such a significant issue with little prior notice or time to process the situation, the parents understandably had many concerns regarding the integration of Normandy students among their students.
+One of the biggest concerns from these parents were the "dismantling of an award-winning school district."
+That is, they were concerned that with the introduction of black students in their school district, the performance of their schools would start declining and ultimately fail.
+These concerns were justified as the parents were not given any say in whether or not the black students from Normandy should integrate into their school district, i.e., the situation was forced upon them, so they have every right to be concerned.
+Furthermore, they had no reason to believe that integration would be a good thing for their schools, seeing that they were doing well without it before; and the introduction of integration in their schools presented a factor that could change the course of the consistent success of their schools.
+
+* 5. What is that one thing that makes school integration successful?
+
+The one thing that makes school integration successful is when everyone in the community actively participates and shares a common interest in integrating the schools and are committed to maintaining integration in their schools.
+Ideally, each parent would voluntarily opt into school integration, as opposed to being forced into having their children attending integrated schools---no forced busing.
+Then it should be asked: what would convince an entire community to agree on the integration of its schools?
+In the case of Kiana Jackson, a curious-minded black student in an all black school, white students from a private school had come to her school to visit and being curious as she is, noticed the white students and talked to them to learn more about them.
+It was because she was exposed to white students that she became curious about them and wanted to learn more about them---she became more comfortable being with white kids.
+Another important component in school integration are magnet schools.
+Magnet schools are schools whose curriculums and student body are tailored to specific areas of study, e.g., a Classical magnet school that concentrates on teaching students Latin and liberal arts.
+These schools separate students not based on racial or socioeconomic status, but based on their talents and interests.
+In general, they are just as, if not more, academically rigorous as the typical public school, but they are also more diverse.
+These are just a few examples of how parents can be convinced to participate in integrated schools and thus make school integration successful.
+
+* 6. What is the stigma of segregation?
+
+The stigma of segregation in schools is that segregated schools tend to be high poverty with low-quality education.
+For example, when someone thinks of a segregated school, they are likely given the impression that the school is full of poorly educated, unruly students who are unlikely to lead very fruitful lives, as opposed to the civilized, attentive students found in white schools.
+When someone thinks of a segregated school, they likely picture lifeless, stereotypical interiors and facilities, as opposed to playful decorations and specialized laboratories (such as a LEGO lab) that white kids would have in their schools.
+In general, the public image of the segregated school tends to be extremely inferior to that of the white school, where the white school is generally believed to be better in every aspect.
+These clear differences between the schools and the students is what creates the stigma of segregated schools and what makes the children in segregated schools self-aware of this stigma.
+
+* Assignment :noexport:
+
+** Your choice for questions 1 and 2
+
+For this discussion, you will answer a total of 6 questions after listening to both the podcasts.
+The entire discussion is worth 10 points.
+Due on Oct 5, midnight.
+
+Questions 1 and 2 are from part one and are mandatory for all students.
+Questions 3 and 4 are from part one (you have a choice which group of questions 3 and 4 to choose)
+Questions 5 and 6 are from part two (again you have a choice).
+
+Please listen carefully to the podcast, “The Problem We All Live With – Part1” - link in the Module.
+
+Now answer the following questions.
+Questions 1 and 2 have to be answered by everyone.
+There are two groups of questions 3 and 4, and you need to answer only one group.
+In total, for part one, you are only answering 4 questions.
+
+- What are the short term and long term benefits of integration?
+- What are the difficulties entailed by minority children in the integration process?
+
+** Your choice for questions 3 and 4:
+
+- What are some of the problems with Normandy school district?
+- What are the concerns of the parents in Francis Howell? Are these concerns justified?
+
+OR
+
+- What were the experiences of Mariah and Rihanna after transferring to Francis Howell?
+- How does it affect students to be at a receiving end of back and forth school decisions?
+
+Listen carefully to Part two of the podcast (link in the module) and answer your choice of questions 5 and 6.
+You will be answering 2 questions only for this part.
+
+** Your choices for questions 5 and 6:
+
+- What is that one thing that makes school integration successful?
+- What is the stigma of segregation?
+
+OR
+
+- What strategy is being used to “market” schools to White parents?
+- What is the target for being officially declared as an “integrated school”?
+
+OR
+
+- When you “market” schools to White parents, who wins and who loses?
+- What are the political reasons for “integration” not having the right sound bytes?

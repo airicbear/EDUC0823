@@ -1,0 +1,297 @@
+#+TITLE: Reading Journal 1
+#+AUTHOR: Eric Nguyen
+#+OPTIONS: toc:nil
+
+* How Real Is Race?
+
+Race is not a scientifically valid biological category, and yet it remains important as a socially constructed category.
+Once educators grasp this concept, they can use the suggestions and resources the authors offer here to help their students make sense of race.
+
+- What do anthropologists mean when they say that "races don't exist" and instead are a socially constructed category?
+
+** Why Race Isn't Biologically Real
+
+- Historically, the idea of race emerged in Europe in the 17th and 18th centuries during the growth of colonialism and the transatlantic slave trade.
+
+- When contemporary scientists, including anthropologists, assert that races aren't scientifically valid, they reject at least three fundamental premises of old racial ideology:
+
+  1) the archaic subspecies concept
+
+  2) the divisibility of contemporary humans into scientifically valid biological groupings
+
+  3) the link between racial traits and social, cultural, and political status
+
+- There were no distinct, archaic human subspecies
+
+- Contemporary humans are not divisible into biological races
+
+  + Scientists have demonstrated that both the concept of race and racial criteria are subjective, arbitrary, and inconsistenly applied.
+
+  + Racial classifications are unscientific because they are unreliable and unstable over time.
+
+  + Estimates suggest that contemporary racial variation accounts for less than 7% of all human genetic variation.
+
+- Race as a biology has no scientific value.
+
+  + There is no substantial evidence that race, as a biological category, and "racial" characteristics, such as skin color or hair texture, are causally linked to behavior, to capacities, to individual and group accomplishments, to cultural institutions, or to propensities to engage in any specific activities.
+
+  + Race does not help physicians with diagnosis, prevention, or treatment of medical diseases, i.e., the concept of "race" is not useful in public health.
+
+** If not race, then what?
+
+- New data indicate that biological traits, such as blood type or skin color, are distributed in geographic gradations or "clines"; that is, the frequency of a trait varies continuously over a geographic area.
+
+  + The genes for type B blood increase in frequency in an east-to-west direction.
+
+  + Skin pigmentation grades from north to south, with increasing pigmentation as one gets closer to the equator.
+
+- Virtually all traits have distinct geographic distributions.
+
+- For biological races to exists, these traits have to co-vary, but they don't.
+  Instead, biological traits produce a nearly infinite number of potential races.
+  This is why anthropologists conclude that there are no scientifically distinguishable biological races---only thousands of clines!
+
+** So what is race then?
+
+- Race is a cultural invention, a culturally and historically specific way of thinking about, categorizing, and treating human beings.
+  It is about social divisions within society, about social categories and identities, about power and privilege.
+  It has been and remains a particular type of ideology for legitimizing social inequality between groups with different ancestries, national origins, and histories.
+
+- Although the dominant racial ideology was about maintaining racial "purity," the issue was not about biology; it was about maintaining social, political, and economic privilege.
+
+** Why is this understanding important for educators?
+
+- The potential for change.
+
+  + Educators, in their role as transmitters of official culture, are particularly well poised to be active change agents in transforming the cultural landscape regarding race.
+
+- The dangers of using racial classifications.
+
+  + Racial labeles delude people into thinking that race predicts such other outcomes and behaviors as achievement in sports, music, or school; rates of employment; pregnancies outside marriage; or drug use.
+
+  + Macroracial labels oversimplify and reduce human diversity to four or five giant groups, e.g., "Asian", "African American", "White", etc.
+
+- How macroracial categories have served people in positive ways.
+
+  + During the 1960s, the U.S. civil rights movement helped bring about consciousness and pride in being African American.
+
+  + Racial categories are used by schools to examine whether certain groups of students are disproportionately represented in any outcome areas.
+
+    - E.g., a school might discover that the percentage of Latino students who receive some type of disciplinary intervention is higher than that for other school populations.
+
+  + Shifting the conversation from biology to culture.
+
+    - It is society, rather than nature --- and socially an economically stratified societies, for the most part --- that restricts social and sexual intercourse and severely penalizes those who mate across racial and other socially created lines.
+
+** Suggestions and Resources for Educators
+
+- As long as we continue to see racially based disparities in young peoples' school achievement, then we must monitor and investigate the social conditions that produce these disparities.
+
+- Avoid "biologizing" racial classification.
+
+- Be supportive for young people's quest for knowledge about the history and struggles of their own people, as well as those of other groups, so that students in the future will not be able to point to their textbooks and say, "My people are not included in the curriculum."
+
+- Don't suggest that we should all be "color blind" since it does not help educate students about human diversity, both biological and social.
+
+- Learn about biological variation and ways to teach about it.
+
+  1. Ideas for student inquiry.
+
+  2. Resources for teachers.
+
+* Defining Racism (pp.1-11)
+
+- Racism is still a thing, yet there are still many people not aware of it.
+
+- Most information we receive about "other"--people racially, religiously, or socioeconomically different from ourselves--does not come as the result of firsthand experience.
+
+  + The secondhand information we do receive has often been distorted, shaped by cultural stereotypes, and left incomplete.
+
+- White children in an experiment had internalized a perception of Native Americans as violent or aggressive, citing cartoons such as /Peter Pan/ as their primary source of information.
+
+  + The stereotypes to which they have been exposed become the foundation for the adult prejudices so many people have.
+
+- Sometimes the assumptions we make about others come not from what we have been told or what we have seen in television or in books, but rather from what we have /not/ been told.
+
+- /Prejudice/ is a preconceived judgment or opinion, usually based on limited information.
+
+- We develop negative categorizations of oppressed groups through constant exposure to stereotypical images and ethnic jokes of friends, while rarely informed of the accomplishments of those groups--this forms the basis of prejudice.
+
+  + Everyone develops these categorizations.
+
+  + When a member of a stereotyped group internalizes the stereotypical categories about their own group, its called /internalized oppression/.
+
+- Everyone has prejudice to some degree.
+
+- It's everyone's responsibility to interrupt the cycle of prejudice, actively challenging it and educating themselves on the subject.
+
+** Racism: A System of Advantage Based on Race
+
+- Racism cannot be fully explained as an expression of prejudice alone.
+
+- David Wellman's definition of racism: a "system of advantage based on race"
+
+- Racism is not only a personal ideology based on racial prejudice, but a /system/ involving cultural messages and institutional policies and practices as well as the beliefs and actions of individuals.
+
+- The systematic advantages of being White are often referred to as White privilege.
+
+- White people may feel angry or guilty after learning about how they benefit from a racist system.
+
+** Racism: For Whites Only?
+
+- People of color cannot be racist in a White-dominated society, using Wellman's definition
+
+- All White people benefit from racism
+
+- /Active racism/ is blatant, intentional acts of racial bigotry and discrimination
+
+- /Passive racism/ is more subtle and can be seen in the collusion of laughing when a racist joke is told, or letting exclusionary hiring practices go unchallenged, of accepting as approriate the omissions of people of color from the curriculum, and of avoiding difficult race-related issues
+
+- Not challenging racism means allowing it
+
+- White people don't all equally benefit from racism, e.g., gender inequality still applies to all races
+
+** The Cost of Racism
+
+- Why should White people want to end racism if it benefits them?
+
+- Whites still pay a great price for the system of advantage, even though the cost may not be as much as it is for people of color.
+
+  + Fears of people of color
+
+  + Social incompetence in racially mixed situations
+
+  + Alienation between parents and children when a child marries into a family of color
+
+  + Interracial friendships they had as children that were lost in adolescence or young adulthood without their ever understanding why
+
+** A Word About Language
+
+Here the author explains why they use the language they use
+
+- So-called /minorities/ represent the majority of the world's population; the term /people of color/ is inclusive
+
+  + Technically, white is also a color but this term is less offensive than calling people non-White
+
+- Call Black people Black
+
+- Language is hard (because race is a social construction)
+
+- /Racial identity development/ is the process of defining oneself the personal and social significance of belonging to a particular racial group.
+
+- /Ethnic identity/ is based on cultural criteria
+
+- /Racial identity/ is based on skin color
+
+- This book focuses on racial identity (in the U.S.)
+* The Complexity of Identity (pp. 12-18)
+
+- Other people are the mirror in which we see ourselves
+
+- Identity has multiple dimensions, e.g.:
+
+  + Male or female
+
+  + Young or old
+
+  + Wealthy, middle-class, or poor
+
+  + Gay, lesbian, bisexual, transgender, or heterosexual
+
+  + Able-bodied or with disabilities
+
+  + Christian, Muslim, Jewish, Buddhist, Hindu, or atheist
+
+- Who is my cohort group?
+
+- What historical events have shaped my thinking?
+
+- What has my social context been?
+
+- Who I am (or say I am) is a product of these questions and many other factors.
+
+- Erik Erikson, the psychoanalytic theorist who coined the term /identity crisis/, introduced the notion that the social, cultural, and historical context is the ground in which individual identity is embedded.
+
+- Choices made in adolescence ripple throughout the lifespan.
+
+  + Romantic partners
+
+  + Type of work
+
+  + Where one will live
+
+  + Belief system
+
+** Who Am I? Multiple Identities
+
+- The areas where a person is a member of the dominant or advantaged social group, the category is usually not mentioned and is taken for granted.
+
+- The parts of our identity that /do/ capture our attention are those that other people notice, and that reflect back to us.
+
+- The aspect of identity that is the target of others' attention, and subsequently of our own, often is that which sets us apart as exceptional or "other" in their eyes.
+
+- Seven categories of "otherness" commonly experienced in the U.S. society:
+
+  + Race or ethnicity
+
+  + Gender
+
+  + Religion
+
+  + Sexual orientation
+
+  + Socioeconomic status
+
+  + Age
+
+  + Physical or mental ability
+
+- Each category has a form of oppression associated with it, respectively:
+
+  + Racism
+
+  + Sexism
+
+  + Religious oppression/anti-Semitism
+
+  + Heterosexism
+
+  + Classism
+
+  + Ageism
+
+  + Ableism
+
+- In each case, there is a group considered dominant
+
+- "If I am impatient with a White woman for not recognizing her White privilege, it may be useful for me to remember how much of my life I spent oblivious to the fact of the daily advantages I receive simply because I am heterosexual, or the ways in which I may take my class privilege for granted."
+
+** Domination and Subordination
+
+- Dominant groups, by definition, set the parameters within which the subordinates operate.
+
+- The dominants do not really know what the experience of the subordinates is.
+
+- In contrast, the subordinates are very well informed about the dominants.
+
+- Social psychologist Susan Fiske writes, "It is a simple principle: People pay attention to those who control their outcomes."
+
+- Because of the risks inherent in unequal relationships, the subordinates often develop covert ways of resisting or undermining the power of the dominant group.
+
+- Resistance strategy: "not-learning"
+
+  + To agree to learn from a stranger who does not respect your integrity causes a major loss of self. The only alternative is to not-learn and reject their world.
+
+- Not-learning may leave members of the targeted group unequipped.
+
+- Attending closely to the dominant group may leave little time or energy to attend to one's self.
+
+- Worst case: subordinates internalize negative messages from dominant group (self-hate)
+
+- Subordinates who expose inequality may be labeled as "troublemakers"
+
+- Many people are both dominant and subordinate.
+
+- "There is no hierarchy of oppression."
+
+- For people in the dominant racial category, it can be difficult to take in what is being said by and about those who are targeted by racism.

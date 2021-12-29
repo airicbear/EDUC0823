@@ -1,0 +1,69 @@
+#+TITLE: Reading Journal 2
+#+AUTHOR: Eric Nguyen
+#+LATEX_HEADER: \usepackage[margin=1in]{geometry}
+#+OPTIONS: toc:nil num:nil
+
+* Chapter 3 Summary
+
+Why are so many people afraid to talk about race?
+In this chapter, Tatum examines how people develop a certain mindset regarding race starting from an early age; giving suggestions as to how educators and parents can help children gain a better understanding of race and feel more comfortable discussing topics regarding race, enabling them to become well informed into adulthood.
+Tatum begins the chapter with conversations involving preschoolers, where in each example the uninformed preschooler would make some race-related comment or question to a parent or teacher.
+In such situations, the preschooler is often concerned as to why the other kid(s) do not share the same skin color as they do.
+Accordingly, Tatum suggests that it is at this young age where children will begin to build a certain attitude towards the topic of race and that it is the adult's responsibility to educate the child about race and provide a positive lens on the topic of race rather than pushing them away from discussing it.
+It is emphasized that guiding children away from the topic of race is how children develop a tendency to avoid discussion of race into adulthood and learn that talking about race is taboo, especially in racially mixed settings.
+Indeed, this general principle applies to other forms of oppression and bias too, and it's important for the adult to help the child identify the different forms of oppression (i.e., racism, sexism, classism, etc.) and point out when there are certain distortions of information that the children might observe and think to be true, but really are not.
+When a child speaks up against unfair treatment of a marginalized group or category of people, the adult should be there to support them.
+
+* Chapter 4 Summary
+
+Why are all the Black kids sitting together in the cafeteria?
+In this chapter, Tatum explains how adolescents discover their identity as they go through puberty and how this is affects their social behavior and mental health as well as how they will identify themselves as adults.
+She provides guidance for educators and other concerned adults as to how they can help Black students better understand their identity, whether through providing a different perspective for the adolescent, or having a school program specifically designated for attending to academic issues for marginalized students such as Black students.
+It is suggested that adolescents begin racial grouping by sixth or seventh grade, when they begin to question their identity and who they are as an individual in their social context.
+Indeed, the search for identity is greatly influenced by the person's surroundings as the they build their identity through the many observations as to how the environment around them reacts to their presence and their actions.
+In this process, the individual will try to find their place within the environment, e.g., Black students might play down their Black identity to fit better with a group of academically successful White students, or perhaps they might listen to rap and hip-hop music to fit in with the rest of the Black people.
+It is emphasized that it is important for an individual to have the ability to see themself as part of a larger group from which they can find support and conciliation; and those who do not have this ability are prone to social isolation.
+
+* Chapter 6 Summary
+
+After having focused on the issues pertaining to the development, experiences, and identity of Black people, Tatum shifts to how White identity also plays an important role in the topic of race and racism.
+With this in mind, Tatum brings up an important point by the counseling psychologist, Janet Helms, in the tasks of people of color versus the tasks of White people, where the people of color should resist racist messages in society and White people should develop a positive White identity based in reality instead of an assumed superiority.
+It is suggested that a healthy White Identity can be developed itself in two tasks: (1) abandoning individual racism and (2) recognizing and opposing institutional and cultural racism.
+Such tasks would occur throughout six stages: contact, disintegration, reintegration, pseudo-independent, immersion/emersion, and autonomy.
+At first, the White person would be oblivious to the impact of race, while slowly ingesting subtle, racist messages.
+Eventually, they start becoming more aware of racism and White privilege, especially when the significance of race is visibly tangible and relevant in certain situations.
+As their awareness grows, they become more uneasy about racism, eventually getting to a point where they will start calling people people out for making stereotypical remarks.
+However, for many White people, this attitude may wilt and they may find themselves blaming the victims, the people of color, and falling back onto the cushions of White privilege.
+It is important for White people to understand their identity, not from a person of color, but preferably a fellow White person who is further along in the search of identity and can lend a helping hand.
+It is important to spread the knowledge of White role models in the fight against racism to encourage other White people that they can do the same.
+Ultimately, the White person should find their identity and become able to confront racism and oppression in daily life, leading to more effectiveness in multiracial settings.
+
+* Chapter 7 Summary
+
+In this chapter, Tatum writes about how being White can be disadvantageous with the introduction of affirmative action policies which actively limit Whites in society, usually in attempt to compensate for the lack of recognition and presence of people of color.
+For the first section, Tatum explains the definition of affirmative action, noting that it was introduced into our language and legal system in 1965 by President Lyndon Johnson when he signed the Executive Order 11246 which obligated federal contractors to "take affirmative action to ensure that applicants are employed, and that employees are treated during employment without regard to their race, color, religion, sex, or national origin".
+She emphasizes that affirmative action is not about quotas, but rather about goals; making the distinction that quotas are fixed numerical allocations whereas goals simply guide towards a direction; not necessarily regulated or overseen as quotas would be.
+Another distinction Tatum makes are the different approaches at which affirmative action is handled, namely a process-oriented approach or a goal-oriented approach.
+The process-oriented approach is based on the idea that a fair process will lead to a fair outcome and all applicants are treated equally, whereas the goal-oriented approach takes a qualified pool and the selection process will favor towards the diversity hiring goals.
+Of course, not all White people are happy about affirmative action, and in fact may resist such policies; many of these people can be identified as "aversive racists".
+In Tatum's words, the aversive racist does not perceive Blacks to be worse, but Whites to be better.
+In an anecdote, Tatum recalls a time when she questioned the racial bias of search committees in her college, noticing that they would reject Black candidates who were very well qualified and she correlated those decisions with the lack of Black students on campus.
+It's important that goal-oriented approaches to affirmative action keep their process transparent, so that they can surpass bias.
+While goal-oriented affirmative action can be useful, it can also be unfair at times.
+Tatum suggests that it is necessary to encourage dialogue about other strategies for fighting racism, potentially providing many solutions rather than a single one.
+
+* Significant Takeaways
+
+- It is important that people engage in discussion and education about race, at all ages.
+
+- Informed White people play an important role in fighting racism.
+
+- Do not think that talking about race is taboo.
+
+* Questions
+
+- How do you convince adults who have developed and internalized racist ideologies?
+
+- What can you do about the blatantly racist communities online?
+
+- Why hasn't anyone done anything about the racist communities online?

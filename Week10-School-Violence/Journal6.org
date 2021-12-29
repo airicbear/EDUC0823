@@ -1,0 +1,97 @@
+#+TITLE: Reading Journal 6
+#+AUTHOR: Eric Nguyen
+#+LATEX_HEADER: \usepackage[margin=1in]{geometry}
+#+OPTIONS: toc:nil num:nil
+
+* Davis Summary
+
+In this article Fania E. Davis presents the philosophical framework of restorative justice which can be used to promote dialogue, accountability, and a stronger sense of community, as an alternative to existing disciplinary strategies in schools.
+This is intended to be a general framework which can be applied to other contexts such as the justice system, schools, families, communities, etc.
+The idea is influenced by the observation that punitive strategies such as suspension or expulsion are ineffective yet widely used by many, if not most, American schools.
+Davis asserts that zero-tolerance policies persist rather than prevent harm in school, especially among students of color.
+Instead, school-based restorative justice promises a more respectful and more sustainable alternative to disciplinary action.
+In practice, restorative justice has shown to be effective in helping make schools safer and more connected.
+Davis suggests eight tips for schools intending to transition to restorative justice: (1) assess need (2) engage the school community (3) hire a restorative justice coordinator (4) begin training (5) school-wide implementation (6) institute restorative discipline (7) involve students in peer restorative practices and (8) be sure to evaluate.
+Before transitioning to restorative justice, schools should consider the following:
+(1) is there disparity in the school's discipline practices?
+(2) what is the school community's opinion on the school's discipline practices?
+Once the decision is made to transition to restorative justice schools should take the next steps:
+(3) have someone to lead the effort of restorative justice
+(4) have all staff and faculty members trained on restorative justice practices
+(5) have staff and faculty apply their training in conversations with the students
+(6) revise school discipline manual and document restorative interventions and outcomes
+(7) have students trained to promote and facilitate circles and elevate youth voice
+Once all is said and done, the progress should be kept track of:
+(8) compare past and present data and measure the effectiveness of restorative justice and get feedback from the school community, for example through surveying them on how they feel about the school environment.
+
+* Campaign Summary
+
+This article introduces the Campaign for Nonviolent Schools in Philadelphia and the motivation behind it.
+Essentially, the campaign seeks to shift the framing of school violence on a national scale from being a dismissed issue to an issue that people can better understand and find tangible solutions for.
+The campaign initially emerged from the discrepancy between the number of schools labeled "persistently dangerous" and the inaction of the Philadelphia schools' administration to adjust its wide net of punitive disciplinary action that guides far too many students into school-to-prison pipelines.
+The Philadelphia Student Union (PSU) seeks to address this discrepancy through youth organizers, aided by adults, who engage with the community to promote relationships between students and teachers, interactive and engaging teaching practices, and whatever they could to help the effort.
+
+In one incident at the Black majority, poverty income Sayre High School in West Philadelphia, during fall 2008, two ninth-graders came to school without uniform.
+They were told to go home by school police officers, who then escalated the situation to city police and had the school go in lockdown---a greatly disproportionate response to an extremely minor infraction.
+The lockdown procedures made several students become restless, sixteen of which who proceeded to get themselves in an altercation with the city police and received disciplinary transfers.
+After this incident, one of the seniors who happened to be trained on leadership from the PSU, organized a petition calling on the school to publicly admit their wrongdoing.
+Despite hundreds of students signing the petition, teachers would not due to apparent fear of reprisals.
+The students felt betrayed by their teachers for allowing the incident to occur in the first place.
+Indeed, the incident was not discussed at all with students by any school teachers nor administration.
+This created a narrative that the teachers were accepting of a culture that treated the students like animals without any regard to their concerns.
+PSU members started talking to their peers about the incident on their own through so-called "listening campaigns", finding out that ninth-graders needed more support to adjust to high school and that students constantly felt disrespected by certain school police officers.
+They decided to hold a press conference in front of the school to share ideas on avoiding similar violence in the future.
+The press conference caught the attention of the media, the school administration, and school police.
+Through nurturing a closer relationship with the school administration and especially the school police, the students eventually convinced the school police Chief Safety Officer, James Golden, to train the school officers with the goal of improving the school climate.
+Against the wishes of the principal, PSU members with Golden's approval developed a curriculum and strategies for connecting students and school police officers.
+Students would better understand the circumstances of their security staff and the poor conditions they would work under.
+Students would learn to sympathize with their former antagonists.
+In another listening campaign revealed that students felt they were being treated better by school police officers.
+Despite the great achievements made by PSU in improving relationships and preventing criminalization of students, they were kicked out of the school building by its administration.
+
+At another similar high school in West Philadelphia, a form of corporal punishment was emerging.
+Late students would be sent to the "late room" where they would be forced to stand inside a small square and any student who stepped outside of it would be immediately suspended.
+While the students despised the practice, it was not known about outside of school.
+PSU members repeatedly tried to confront the principal about the late-room policy and other issues in the school, yet were denied each time.
+In a new approach, a PSU member was able to capture video footage of the late room on his phone.
+This was enough evidence to convince the city to address the issues in the school and indeed the school swiftly terminated the late-room policy.
+
+Students successful in improving their schools decided to merge their efforts into a citywide effort.
+To do this, they needed to have a diverse group of city youth, including different ethnic backgrounds and neighborhoods.
+On December 3, 2009, over thirty Asian students were attacked at South Philadelphia High School, mostly by Black classmates, thirteen of which were hospitalized.
+This incident resulted in state and federal investigations and national and international publicity.
+In response to this incident, a group of roughly fifty Asian immigrant students led a week-long boycott of the school.
+The media shaped the story into one about racial gangs and pitted Asians against Blacks.
+PSU members, who at the time consisted primarily of Blacks, realized that they Blacks and Asians needed to speak with one voice if there was to be any improvement in the schools.
+
+The Campaign for Nonviolent Schools was chosen by students to officially launch on Martin Luther King Jr. Day 2010.
+The launch included nine youth organizations: PSU, the Youth Voices project of the University Community Collaborative at Temple, the Asian Students Association of Philadelphia, Asian Americans United, Boat People SOS, Citywide Student Government, Philadelphia Freedom Schools, the Youth Commission, and Youth United for Change.
+The launch involved a large demonstration of around 600 hundred people marching down Broad Street from the school district headquarters.
+The Campaign seeks to secure a vast number of endorsements to implement a platform that articulates the vision of a nonviolent school as a part of individual schools as well as a part of district policy.
+
+Through their efforts, PSU members started to gain a new perspective on the root causes of student violence.
+They started to have a better sense of the definition of violence---"violence equals power that hurts."
+This translates to any type of harm whether it is physical harm or whether it is harming students through school policies.
+On the other hand, they define nonviolence as "power that helps."
+Both violence and nonviolence can have interpersonal as well as systematic manifestations.
+It is vital to address the systemic issues to prevent interpersonal conflicts.
+
+Looking towards the future, the Campaign aims to transform school safety policies in Philadelphia and shift ideology on school punishment and violence.
+The Campaign seeks to demonstrate the power of the youth and how they can make a difference in the world, on how they view themselves and how they view others as well as how adults can similarly gain new perspectives.
+Great reform among Philadelphia's schools can only be done with a great citywide effort, and the Campaign is an invaluable component in such an effort.
+
+* Significant Takeaways
+
+- Punitive strategies are ineffective disciplinary practices in schools.
+
+- It is important to get direct feedback from the school community to improve the school conditions.
+
+- It is important that school improvement efforts are supported by ethnically diverse groups.
+
+* Questions
+
+- Are most schools still using punitive strategies?
+
+- Are enough schools aware of restorative justice practices?
+
+- How has the Campaign progressed in terms of improving schools in Philadelphia?

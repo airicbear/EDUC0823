@@ -1,0 +1,30 @@
+#+TITLE: Reading Journal 9
+#+AUTHOR: Eric Nguyen
+#+LATEX_HEADER: \usepackage[margin=1in]{geometry}
+#+OPTIONS: toc:nil num:nil
+
+* GLSEN Research Brief Summary
+
+This research report studies the experiences of LGBT students in middle schools.
+Issues of gender expression are generally not taken into consideration until high school and as a result, the issues of LGBT students in middle schools are often left unaddressed.
+There are five findings made in this report: (1) middle school students would be often exposed to derogatory remarks against LGBT people, more often than high school students, yet middle school staff rarely addressed use of such language, (2) most LGBT middle school students experienced verbal, sometimes physical, harassment, more than LGBT high school students, yet most never told school authorities about such incidents, (3) LGBT middle school students had poor attendance due to safety concerns and harassment avoidance, (4) the academic performance of LGBT students was influenced according to the severity of the harassment they faced, and (5) LGBT middle school students had insufficient support to improve their school experience, especially compared to high school students.
+From these findings, it is clear that educators and institutional support systems play a crucial role in improving the experiences of LGBT students in middle schools.
+In response to these findings, the report provides several recommendations for middle school administrators, educators, education policymakers and others concerned with school safety and students' experiences in the nation's middle schools: implement anti-harassment policies and clear incident report systems, support LGBT groups in school, train middle school staff to be more supportive of LGBT students, and increase access to accurate information about LGBT community for middle school students.
+
+* Significant Takeaways
+
+- Middle school students are not well educated on gender expression and the LGBT community compared to high school students.
+
+- Poor education on gender expression in middle schools leads to poor schooling experience for LGBT students.
+
+- Poor schooling experience of LGBT middle school students leads to poor academic performance.
+
+* Questions
+
+- How has the situation improved since this research was published?
+
+- How does this issue compare to the issue of racism in middle schools?
+  Do LGBT students face more harassment compared to minority students?
+
+- What role does intersectionality have in this issue?
+  For example, how do you address the issues of middle school students who happen to identify both as LGBT and black in white-dominant middle schools?

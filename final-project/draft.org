@@ -1,0 +1,45 @@
+#+TITLE: Draft
+#+AUTHOR: Eric Nguyen
+#+LATEX_HEADER: \usepackage[margin=1in]{geometry}
+#+OPTIONS: toc:nil num:nil
+
+* Building Careers, Encountering Class Summary
+
+In the fourth chapter of 2002 book, /Becoming American, Being Indian/, Madhulika Khandelwal writes about the career stories of Indian immigrants in the United States after 1965, providing first-hand accounts from Indians living in New York City, where she works as a professor in Asian American Studies at the City University of New York.
+Khandelwal begins the chapter claiming that "well-paying jobs were the basic motivation for the post-1965 Indian immigration... contrasting economic conditions in India and the United States in the 1960s and 1970s fed those expectations" (p. 91).
+Most of these early Indian immigrants would lead successful professional careers or businesses, resulting in Indians becoming considered a "model minority" which changed how Indian immigrants viewed themselves.
+However by the 1980s, the variation in the socioeconomic distribution of Indian immigrants started to greatly widen with the introduction of more lower-middle- and working-class immigrants (p. 91).
+Indeed, by the 1990s the Indian immigrant population in the United States was vastly diverse---some Indian immigrants would go on to make huge financial achievements while others would be unemployed (p. 92).
+
+Khandelwal addresses the issue as to why skilled Indian migrants started immigrating to the United States, as opposed to some other country such as Great Britain.
+In the 1950s to 1960s, many new graduates in India "faced serious unemployment or underemployment" (p. 92).
+Despite the high demand for skilled workers, employment conditions prohibited many from working: "sufficient paid employment was not available, or it was available in areas without urban standards of living" (p. 92).
+This resulted in most of India's doctors (80%) residing in urban areas---covering only a fraction of India's population (less than 20%).
+"These employment conditions dissuaded educated and skilled Indians from staying in India, and many turned to overseas migration" (p. 92).
+Most of Indian immigration starting from the 1950s was directed toward Great Britain, until the 1970s with "rising British antagonism toward immigrants, it was redirected to the United States, where the 1965 Immigration and Nationality Act had opened the door more widely to immigrants from beyond Europe" (p. 92).
+Indeed, over time, the employment prospects in the United States would come to be extremely enticing for skilled immigrants as the demand grew through increased research efforts after the USSR launch of Sputnik in 1957 and from low output of doctors from American schools creating a need for skilled foreign workers (pp. 92--93).
+By 1980, the income levels of Indian immigrants started declining due to immigration policies and changes in the American economy (p. 95).
+
+* Counseling Introduction Summary
+
+In the introduction of the 2017 book, /Counseling Asian Indian Immigrant Families/, Varughese Jacob addresses the conflicts in Asian-Indian immigrant families and individuals as they adjust to the "differing values and cultural patterns of their home country and their adopted country" (p. 1) and how these conflicts can be even more difficult when families have more than one generation.
+Specifically, Jacob aims to provide a spiritual psychotherapeutic model for counselors to practice when counseling Indian immigrant families "caught between two conflicting cultures, namely the Indian and American/Western cultures" (p. 1).
+In an example, Jacob describes the conflicts in one family,
+
+#+begin_quote
+Mr. and Mrs. Thomas, respectively a software engineer and a registered nurse, and their son Tom (age 17) were referred to me for family by their pastor, John, 15 years after they immigrated to the United States. A younger son, Time (age 12) and a daughter Toni (age five), completed the family. At the interview the parents, in particular the mother, presented a long and detailed list of Tom's problems, which included partying on the weekends and staying out later than his parents approved, staying overnight at an American friend's home without parental permission, drinking beer (the family was Pentcostal), dressing and having his hair cut in ways unacceptable to his parents, and most damaging, wishing to major in fine arts rather than in medicine, which his parents expected of him. (p. 2)
+#+end_quote
+
+Apparently Tom had been a model child just a year prior to therapy, however that changed in his sophomore year in high school when he joined the varsity soccer team and started to "associate more closely with his American peers on the teams" (p. 2).
+Mrs. Thomas held very negative stances against American families and was under the belief that American parenting was inferior to her parenting.
+Through tensions between Mrs. Thomas and her son Tom, he would eventually leave the soccer team.
+Tom argued that his mother was disapproving of behavior that was necessary for him to fit in with his peers, supporting his argument showing that he maintained a high GPA and was also active in the chess and math clubs.
+His father, on the other hand, was more understanding of his son and the differences between raising children in India compared to the United States.
+Jacob makes an observation from this family, "Among the many similar cases I have encountered, the Thomas' situation represents in a stark manner the intergenerational issues among immigrant families" (p. 3)
+In general, parents and children in immigrant families tend to encounter stress from cultural differences.
+
+* Introduction
+
+Asian-Indian immigrants in the United States
+
+* Conclusion

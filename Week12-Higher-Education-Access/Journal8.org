@@ -1,0 +1,36 @@
+#+TITLE: Reading Journal 8
+#+AUTHOR: Eric Nguyen
+#+LATEX_HEADER: \usepackage[margin=1in]{geometry}
+#+OPTIONS: toc:nil num:nil
+
+* College Selectivity Summary
+
+According to a recent study on millions of anonymous tax filings and tuition records, researchers have found that students at elite colleges are richer than they anticipated.
+At some colleges, there are more students coming from the top 1 percent than the bottom 60 percent.
+The richest students tend to attend elite colleges meanwhile it is very unlikely that the poorest students attend colleges at all, let alone attend elite colleges.
+Colleges often try to address this problem through making enrollment more affordable for low-income families rather than expanding access.
+The study provides the most comprehensive measures on how economically diverse student populations are at nearly every college in the country.
+The ratio of bottom 40 percent students at elite colleges has remained mostly the same for the past decade, i.e., the poor have gotten poorer and the rich have gotten richer.
+Even after expansion of Pell Grant eligibility, students at elite colleges were still not very economically diverse.
+Indeed, there are many well qualified lower-income students not attending selective colleges.
+Despite their challenges, lower-income students are likely to earn as much as high-income students attending the same college.
+The income distribution of most people generally remains the same throughout their entire career.
+A college's mobility rate refers to the rate at which it drives students to a higher income bracket.
+Less selective public colleges tend to have the highest mobility rates.
+
+* Significant Takeaways
+
+- There are extremely few students from low-income families attending selective colleges.
+
+- Making college more affordable does not necessarily make more accessible to students from lower-income families.
+
+- Regardless of income-level, students from the same college are likely to earn similar incomes in their careers after graduation.
+
+* Questions
+
+- Why doesn't affordability address the problem of access to higher education?
+
+- If affordability isn't enough to address the problem of access to higher education, then what else should be done to address the problem?
+
+- If everyone pursues higher education, then would that only increase the standard of education to even higher levels?
+  In other words, would this not then have major implications on the job market?

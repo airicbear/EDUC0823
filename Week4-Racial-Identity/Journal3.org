@@ -1,0 +1,55 @@
+#+TITLE: Reading Journal 3
+#+AUTHOR: Eric Nguyen
+#+LATEX_HEADER: \usepackage[margin=1in]{geometry}
+#+OPTIONS: toc:nil num:nil
+
+* Chapter 8 Summary
+
+For most of the book up until now, the focus has primarily been on the Black and White relations in the United States regarding race, racism, and racial identity.
+Now, Tatum begins to consider more carefully other races and ethnicities who are similarly oppressed as Blacks, including Latinos, Asian Pacific Americans, and American Indians, but does not go into full detail about other races for practical reasons as there are simply too many different races and ethnicities to cover.
+She uses Jean Phinney's model of adolescent ethnic identity development to describe the process through which adolescents go through in finding their ethnic identity in a multiracial context.
+Phinney's model is divided into three stages: (1) unaware of their own ethnic identity (2) searching for their ethnic identity and (3) achieved ethnic identity.
+While it is not feasible to go through the entire identity development for each racial/ethnic group, Tatum emphasizes a number of critical issues in the identity development of each group, particularly in schools.
+Before each analysis, Tatum defines the labels for each racial/ethnic group (what does it mean to be "Latino", "Indian", or "Asian"?).
+Latinos (Hispanics) are the second largest and fastest-growing community of color in the U.S. and they primarily originate from Mexico, Puerto Rico, Cuba, Dominicans, with a small portion originating from the rest of Central America and South America.
+The label "Indian" (Native American) refers to people who are native to America; the majority of which live in only six states: Oklahoma, California, Arizona, New Mexico, Alaska, and Washington.
+Asians (Asian Americans or Asian Pacific Americans) include people from East Asia (e.g., Chinese, Japanese, Korean), Southeast Asia (e.g., Vietnamese, Laotian, Burmese), from the Pacific Islands (e.g., Samoan, Guamanian, Fijian), from South Asia (e.g., Indian, Pakistani, Nepali), from West Asia (e.g., Iranian, Afghan, Turkish), and from the Middle East (e.g., Iraqi, Jordanian, Palestinian).
+Regardless of race, each person must deal with negative stereotypes, avoid internalizing negative self-perceptions, and affirm the meaning of their ethnicity, if they are to find their racial or ethnic identity.
+For example, Latinos would be stereotyped as illegal aliens, segregated from Whites, and found themselves to highly value familism.
+Indians were stereotyped as people to be "civilized" by the Whites, they were forced away from their homes, and found themselves to highly value their traditions.
+Finally, Asians would be stereotyped as the "model minority," (Muslims would be stereotyped as terrorists), they would be pitted against other races, and found themselves to highly value their voice.
+
+* Chapter 9 Summary
+
+With all of the races/ethnicities covered, Tatum now considers the situation of multiracial families where the children are a mix of two races, i.e., biracial.
+As shown previously, identity development can be very complicated; however biracial racial identity development is even more complicated so much so that no one really has agreed on a model that best takes into account the differences in the biracial identity development as opposed to monoracial identity development.
+Because of race-specific laws in the early twentieth century, the U.S. had to distinguish those who were Black against those who were White.
+So, they formulated the one-drop rule which declared that anyone with any African ancestry was considered Black; otherwise they were White.
+The one-drop rule, however, only applies to Blacks in the United States, not any other racial group.
+Since much of the limited research on biracial identity involves Black-White pairings, Tatum primarily covers the identity development of children with Black and White parents.
+While it might come intuitively that biracial people experience more emotional difficulties than their monoracial counterparts, the results from an experiment conducted by Ana Mari Cauce show that biracial adolescents can be just as healthy and happy as other young people are.
+But this is not to say that being biracial does not come with its own challenges, for example, biracial children are often asked by their classmates whether or not they are White or Black.
+Biracial children apparently develop racial awareness at a faster rate than normal due to the early exposure of different races within their family, as well as appearing exotic among their peers.
+As they grow out of preschool and towards puberty, biracial adolescents will encounter more challenges, including choosing whether to be friends with the White group or with the Black group, or choosing a romantic partner.
+Going on to college, biracial students should have a better understanding of their racial identity and learn to accept their multiracial heritage.
+Lastly, Tatum considers the identity development of children of color adopted by White parents.
+She particularly emphasizes the importance of race-conscious parenting with the goal of making the child feel good about themselves, their racial identity, and their parents as the child grows into adulthood.
+For example, one White parent of a Central American adoptee had helped her son by finding playmates in a similar situation as him, as well as Latino adults who could act as role models for her son.
+However, in certain White dominant regions, it might not be possible for White parents of adopted children of color to reasonably provide a race-conscious experience to their adopted children as there may be a lack of diversity in the population.
+White parents looking to adopt children of color must come to terms with the fact that they are eventually going to have to deal with racism at some point.
+
+* Significant Takeaways
+
+- People with multiracial heritage likely had a very unique experience growing up compared to most people.
+
+- There are many different races and ethnicities and it is important to consider the struggles and values of each group.
+
+- Adopted children of White parents need exposure to other races as well as their own, so that they feel comfortable with their identity.
+
+* Questions
+
+- How can we encourage learning environments that include a more diverse range of races?
+
+- How significant is race as a factor in the development of a person compared to, for example, other categories such as socioeconomic status or education level?
+
+- Is racism a constant issue that will exist as long as humans exist?

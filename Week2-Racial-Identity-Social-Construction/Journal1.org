@@ -1,0 +1,62 @@
+#+TITLE: Reading Journal 1
+#+AUTHOR: Eric Nguyen
+#+LATEX_HEADER: \usepackage[margin=1in]{geometry}
+#+OPTIONS: toc:nil num:nil
+
+* How Real Is Race? Summary
+
+Is race a real thing, i.e., a biological trait of a person, or is it some social construct created by humans?
+The article, /How Real Is Race?/ by Carol Mukhopadhyay and Rosemary C. Henze gives the historical background and development of race as a cultural invention and how it came to be a prominent social aspect in human interactions, as well as how educators can help their students better understand race.
+One of the key arguments made in the article is that race is not biologically real---that is, race has no effect on an individual in any scientific context.
+For example, race plays no role in affecting how a physician examines a patient, nor does it have any role in affecting an individuals physical or mental capabilities.
+Instead of seeing individuals through the lenses of racial categories, the authors suggest that its more appropriate to examine the geographic area from which an individual originated from, as it can be observed that the frequency of different traits are dependent over a geographic area, distributed in so-called "clines" or geographic gradations.
+Since race is not a biological trait, the authors argue that race is rather an ideology whereby social inequality is legitimized among populations with people of diverse traits.
+Its important for educators to understand race as (1) they play the role of developing the attitude towards race that future generations will follow, (2) so they can prevent disparities among their students, e.g., in academic performance, and (3) to promote social awareness regarding race.
+Some things to consider when discussing race with students or others are the use of macroracial categories, such as "Asian" or "African American," where such labels might overgeneralize certain populations, but in some cases may also be helpful to unite people.
+Another important precaution to take is to avoid associating race as a biological aspect of an individual.
+Instead, educators should proactively take measures to make the learning environment inclusive of all people, regardless of their racial category.
+
+* Chapter 1 Summary
+
+In the first chapter of Beverly Tatum's book, /Why Are All the Black Kids Sitting Together in the Cafeteria?/, Tatum introduces her perspective of racism and provides the basis from which the book develops upon, supporting her ideas and arguments by including accounts and examples from her own life as a person of color herself.
+Specifically, she establishes a definition of racism, explains why racism still exists in modern society, and clarifies her choice of language used in this book.
+In her definition of racism, Tatum realizes that racism is more than solely an expression of prejudice, but additionally racism can be seen as a "system of advantage" which is reinforced by cultural and historical influence in society as well as the attitude and behavior of individuals towards racism.
+She describes three attitudes towards racism, namely active racism, passive racism, and anti-racism.
+Essentially, her argument is that if someone is not actively challenging racism, i.e., being antiracist, then they are allowing it to occur to the point where children will eventually be exposed to racist ideas and the cycle of racism will perpetuate, hence why it is everyone's responsibility to interrupt such a cycle from happening, even at as small of a scale as their immediate family.
+One point she brings up is that White people might not have any incentive to prevent racism if it benefits them; however in response to this idea, she explains that they still pay a great price for such benefits, primarily the awkwardness in social situations involving people of color.
+Finally, she makes a distinction between one's ethnic identity and racial identity whereby one's ethnic identity is based on their cultural criteria (e.g., Italian) and one's racial identity is based on their skin color (e.g., Black).
+Racial identity in U.S. society is the primary focus of the book, however in some cases ethnic identity may intersect with racial identity.
+
+* Chapter 2 Summary
+
+The second chapter focuses on the complexity in identifying and describing an individual's identity.
+In general, the identity of an individual could be described as their perception of how other people think about them, however there are many intricacies to consider when forming a more detailed description of one's identity.
+Identity is very much a multidimensional aspect of an individual including features such as their gender, age, socioeconomic status, religious beliefs, sexual orientation, physical or mental ability, and race or ethnicity.
+Each feature of one's identity will play a role in influencing outcomes in their life, for example, who they will choose to date or marry, how they choose their career, where they will choose to live, and what they will choose to believe in.
+Additionally, each feature of one's identity will also have a form of oppression associated with it, e.g., sexism, ageism, classism, religious oppression, heterosexism, ableism, and racism, respectively.
+In each case, there is a group considered dominant and the non-dominant categories are subordinate.
+Many people can identify as both dominant and subordinate.
+When considering oneself's identity, typically the non-dominant features will come to attention whereas the dominant features will be taken for granted.
+It is important for each person to understand that identity is not a completely black or white aspect of an individual and whatever your identity may be, you should embrace it.
+
+* Significant Takeaways
+
+1. Racism is much more than a personal, prejudiced way of thinking but rather a system of advantages where the oppression of the subordinate race benefits the dominant race.
+
+2. Racism is persisted through a continuous cycle of active and passive racism in the absence of a significant opposing and antiracist force.
+
+3. Your identity plays a considerable part in affecting your future and its a good thing to be conscious about when making decisions in life.
+
+4. Race is not a biological trait.
+
+* Questions
+
+- How does racism in the U.S. compare to that of other countries and nations?
+  The U.S. is a large country, are the issues of racism more prevalent in some parts of the country than others?
+  Why or why not?
+
+- The argument for the cost of racism for White people may appear inadequate to some readers, especially when contrasted with the many benefits White people gain.
+  Are there stronger arguments for why White people would want to end racism?
+
+- At what point does racism end in a society?
+

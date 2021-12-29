@@ -1,0 +1,106 @@
+#+TITLE: Reading Journal 7
+#+AUTHOR: Eric Nguyen
+#+LATEX_HEADER: \usepackage[margin=1in]{geometry}
+#+OPTIONS: toc:nil num:nil
+
+* Unfulfilled Promise Summary
+
+This is a 2000-2005 study that involves the quantitative research of the dropout rates in Philadelphia to address the issues revolving around an apparent dropout crisis throughout the city.
+The primary questions this study raises are:
+(1) Which students dropout within a single year?
+(2) What are the trends in cohort graduation rates?
+(3) What are the predictors that a student will drop out?
+There are several findings made in this report to address each question.
+
+For the first question, a study was conducted during the 2003-2004 school year of Philadelphia's public schools.
+It was found that 6% of students grades 6--12 dropped out, while an additional 4% of students grades 6--12 were technically enrolled but were absent for more than half the time, categorized as "near-dropouts".
+Nearly two-thirds of the dropouts were grade 10 or lower, about one-third in grade 9 or lower.
+The ratio of dropout rates for each ethnic group was 20% for Latinos, 18% for African Americans, 15% for Whites, and 12% for Asian students.
+Males were more likely to drop out than females.
+
+For the second question, a study was conducted on cohorts of first-time freshmen of the Classes 2000 through 2005.
+It was found that 4-year graduation rates ranged from 45% to 52% and the 6-year graduation rates ranged from 54% to 58%.
+Not a single racial/ethnic group had an on-time graduation rate greater than 71%, but Asians were more likely to graduate on time, followed by Whites, African Americans, and Latinos.
+40% Latino, 50% Black/White, and 65% Asian males finished high school while 50% Latino, 65% Black/White, and 75% Asian females finished high school.
+
+For the third question, a study was conducted on 8th and 9th graders and classifying which ones were at-risk.
+It was found that there were two 8th grade factors that led to a 75% chance of a student dropping out: (1) attending school less than 80% of the time in 8th grade and (2) receiving a failing final grade in math/English in 8th grade.
+78% of those who fell under condition (1) dropped out while 77% of those who fell under condition (2) dropped out.
+Gender, race, age, and test scores were not significant factors.
+Another group of dropouts is considered: those who were not classified as at-risk in 8th grade but are at-risk in 9th grade.
+At least one of three 9th grade factors would cause a student to be 75% likely to drop out: (1) less than 70% attendance, (2) earned less than 2 credits in 9th grade, and/or (3) not promoted to 10th grade on time.
+Roughly half of dropouts can be identified in 8th grade before entering high school.
+80% of dropouts were either at-risk 8th graders or at-risk 9th graders.
+
+The study then presents implications for policy and observations on conditions that make it less likely for a student to drop out.
+Students who arrive at 10th grade on time are significantly less likely to drop out.
+90% of students who had juvenile justice placement and 70% of students who had experienced substantial abuse or neglect during high school ended up dropping out.
+To address the issue of school dropout in Philadelphia, it is necessary that a long-term coalition, along with the support of the community, be assembled to handle such issues.
+It is also necessary to have a coordinated effort in reforming education in grades 6--12.
+To handle the case when education reform does not work, it is required to have an effective system of credit recovery, second chance schools, and alternative means of securing a high school diploma.
+Lastly, agencies involved in providing social services to the city's youth will be needed to be heavily involved in the effort against the dropout crisis and make the most of their resources to ensure students graduate from high school.
+
+* A Promise Worth Keeping Summary
+
+This is a 2014 follow-up study by Project U-Turn on the effectiveness of dropout prevention initiatives from 2006 as described in the /Unfilled Promise/ report on the reduction of dropout rates in the School District of Philadelphia.
+To measure the effectiveness of those efforts the study addresses four questions:
+(1) What were the cohort graduation and dropout rates and what are the associated factors?
+(2) How do subgroups vary according to those rates?
+(3) What were re-engagement rates for high school dropouts and for those who re-engaged how many of them participated in a Project U-Turn re-engagement program?
+(4) How many students eventually enrolled in post-secondary institutions?
+
+To the first question, it was found that graduation rates increased and dropout rates have decreased since the first /Unfilled Promise/ report.
+4% fewer students dropped out of high school during the 2011-2012 school year compared to the 2003-2004 school year.
+Graduation rates improved by 12% in the 2008-2009 cohort by up to 64% compared to the previously reported highest graduation rate.
+The dropout rate decreased by 4% from 29% for the 2003-2004 cohort to 25% for the 2008-2009 cohort.
+Grade promotions and attendance rates increased alongside graduation rates.
+
+To the second question, it was found that graduation rates remained lower for at-risk students, including those involved with the city's Department of Human Services (DHS), black and Hispanic males, and females who gave birth prior to and/or during high school.
+Those involved with the DHS consistently had lower graduation rates than the rest of students with juvenile justice-involved youth having the lowest graduation rates.
+The biggest positive change in graduation rates was in Hispanic males and females with an 18% and 15% increase, respectively, compared between the 2002-2003 and 2008-2009 cohorts.
+Black and Hispanic male graduation rates remained behind their white and Asian counterparts and all females.
+Graduation rates for young mothers remained low, the highest being 43% with the 2007-2008 cohort.
+The highest-risk of dropping out were those involved with juvenile justice and adolescent mothers.
+
+To the third question, it was found that, of the students who dropped out of high school, an increasingly large portion re-engaged in either the school system or a re-engagement program.
+7% more of dropouts re-engaged from 47% in the 2002-2003 cohort to 54% in the 2008-2009 cohort.
+The increase in re-engagement did not make a significant impact on graduation rates, however.
+One in five students and over half of all re-engaging students participated in at least one Project U-Turn program: GED to College, Educational Options Program, E³ Centers, Accelerated High School, Gateway to College, and Occupational Skills Training program.
+
+To the fourth question, it was found that, despite increased high school graduation rates, the rates of enrollment in post-secondary institutions remained poor with marginal increases.
+Students involved in DHS and adolescent mothers consistently have lower post-secondary enrollment, with students in juvenile justice having the lowest rates.
+
+While more students are graduating, there are still groups of students that continue to drop out at the same rates.
+It may be helpful to provide additional support to these groups to help them graduate high school.
+Additionally, more students are re-engaging with most of those students participating in one of the Project U-Turn programs.
+
+* Punishing Reach of Racism for Black Boys Summary
+
+Even when raised in wealthy families, Black boys will still earn less than White boys going into adulthood.
+While White boys growing up rich will most likely stay rich, Black boys growing up rich are more likely to become poor.
+This practically true for any part of America.
+On the other hand, there is no significant income gap between Black and White females.
+Researchers suggest that these disparities can be explained by the inadequacy of test scores in measuring the abilities of black children.
+The research found that there are essentially no neighborhoods in America where Black and White boys are both doing well.
+The only ones that did were when black children had fathers at home.
+Indeed, presence of fathers are a good indicator of the success of black children since they act as role models for the boys.
+Studies show that boys in general are more prone to disadvantages (e.g., poverty, discrimination, disciplinary action, incarceration, etc.) than girls.
+However they also benefit more from adult attention and resources than girls.
+Broad income disparities between black and white men are consistent regardless of family structure, income, or any other conditions.
+Geographically, the Southeast region of America is bad place for any child to grow up.
+
+* Significant Takeaways
+
+- Philadelphia's public school system has a history of high dropout rates.
+
+- Certain groups of students are at high-risk of dropping out, e.g., adolescent mothers and those involved with juvenile justice.
+
+- There are large income gaps between men of different races.
+
+* Questions
+
+- How do we address the issue of adolescent mothers dropping out of high school?
+
+- How do we address the issue of low post-secondary enrollment rates?
+
+- How do we address the wide income disparities between Black and White men?

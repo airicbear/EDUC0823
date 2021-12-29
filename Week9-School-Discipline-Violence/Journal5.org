@@ -1,0 +1,63 @@
+#+TITLE: Reading Journal 5
+#+AUTHOR: Eric Nguyen
+#+LATEX_HEADER: \usepackage[margin=1in]{geometry}
+#+OPTIONS: toc:nil num:nil
+
+* Irby Summary
+
+There's a growing problem in America of discipline on school crime, violence, and misbehavior.
+Despite a decline in violent behavior in schools, non-violent behavioral disruptions have been on the rise.
+Zero tolerance policies were established in the mid 1990s to address the issue of school safety, applying the same punishment to all students regardless of the degree of their infringements on school rules and policies, however the effectiveness of such policies are controversial.
+There is insufficient evidence supporting the argument that student behaviors alone have changed enough over the past 15 years to warrant sharp increases in disciplinary action among schools.
+Instead, it is suggested that school discipline "nets" of social control are the primary reason why disciplinary action is rising so much in American schools.
+Net-widening refers to increasing the number of students subject to official control, e.g., more rules and procedures.
+Net-deepening refers to increasing the extent of the punishment taken upon students who try to break the net's constraints, i.e., violate school rules.
+Net-contractions reverse the effects of net-widening and net-deepening, i.e., decrease the frequency of disciplinary action and make the environment more tolerant of less extreme punishments.
+Through constant net-widening and net-deepening, particularly contributed from the zero tolerance era, the discipline nets of today are relatively much larger than they were before then.
+Thus, we have a possible explanation as to why school discipline in America has been a growing problem.
+
+Then what causes net-widening and net-deepening?
+Net-widening is a result of (1) efforts to deter more serious criminal activities and minimize youth delinquency and (2) strained school disciplinary systems attempting to minimize number of youth in state institutions.
+Net-deepening is a result of changes in the classification of severity of behavioral conduct incidents in schools.
+Intuitively, net-widening and net-deepening seem like good practices to prevent misbehavior in schools.
+However, more rules implies more students being in trouble, and more severe consequences implies more students subject to severe punishment.
+In general, over time, students are more likely to be punished and to be punished more severely.
+This contradicts the common belief that more punishment is good for students in public schools.
+
+* Kupchik & Bracy Summary
+
+Despite schools remaining relatively safe places for students to be, school discipline and security measures have becoming disproportionately stricter in response to growing fears of school crime and violence.
+What causes so much fear regarding school crime and violence?
+Certainly, the media has some contribution to such fears.
+Social constructionism through the media is particularly suggested to influence great fear in Americans, that is, where the social constructionist approach of media takes advantage of the naiveté of the population regarding certain social problems, injecting biases and other distortions into the stories.
+The general principle behind this is to attract large audiences through the exploitation of their fear and attention, at the cost of greatly misinforming the population.
+Indeed, research has shown that there is a clear connection between fears of school violence and school safety policies, including that these trends have little in common with actual crime rates.
+
+The authors themselves go through an extensive efforts to research articles on school crime and violence from 1990 to 2006.
+From their results, it is shown that the number articles on school crime were extremely few in the early 1990s until an enormous spike in 1998 and 1999.
+Since then, there has been regular publication of articles on school crime, maintaining the fear of school crime.
+Indeed, inspecting the articles closer, we can observe that the articles tend to suggest that school violence can happen anywhere, at anytime, without providing many sources of information that can be used to contextualize and establish a broad framework for understanding it.
+Instead, the articles try to present views in common with parents and students who are their main audience.
+There are four themes discovered by the authors when reading through the articles: /Good news-bad news/, /Remembering Columbine/, /Emotional responses as information/, and /Predicting the unpredictable/.
+/Good news-bad-news/ refers to articles presenting school crime as both declining yet a threat to students.
+/Remembering Columbine/ refers to articles promoting widespread fear by referencing the 1999 school shootings at Columbine High School.
+/Emotional responses as information/ refers to articles that discuss how it feels to be a victim, how it feels to be related to a victim, or how it feels to be concerned about school violence.
+/Predicting the unpredictable/ refers to articles that convey the contradictory message that school violence is unpredictable, yet schools are at fault for not predicting and preventing it.
+Indeed the authors claim that it is more important to concentrate on the media portrayals of school crime and violence, as opposed to how public or policy makers perceive and respond to these messages.
+
+* Significant Takeaways
+
+- More punishment is not the best solution for addressing issues regarding school discipline.
+
+- The media are more responsible for the issue of school discipline than policymakers are.
+
+- It is important to be aware of distortions and motivations behind the authors of news articles.
+
+* Questions
+
+- If net-widening and net-deepening are not the solution to school misconduct, then what is?
+
+- Is the media not a reliable source of information?
+  If so, what are reliable sources of information?
+
+- How can you detect biases and distortions in the media?
